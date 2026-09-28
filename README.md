@@ -111,12 +111,25 @@ Building responsive and interactive web applications with a focus on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelhamedMohamed0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhamedMohamed0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Abdelrahman-Mhmed&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdelrahman-Mhmed&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdelhamedMohamed0&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Abdelrahman-Mhmed&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Mhmed\&icon=0\&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 💰 You can help me by Donating
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/paypal.me/Abdelrahman745)
 
 ---
 
@@ -144,3 +157,4 @@ Building responsive and interactive web applications with a focus on:
 
 ### 💡 Learn. Build. Improve. Repeat. 🚀
 
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
