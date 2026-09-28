@@ -108,15 +108,15 @@ Building responsive and interactive web applications with a focus on:
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdelhamedMohamed0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelhamedMohamed0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhamedMohamed0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelhamedMohamed0&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=AbdelhamedMohamed0&theme=tokyonight&hide_border=true" />
 
 ---
 
