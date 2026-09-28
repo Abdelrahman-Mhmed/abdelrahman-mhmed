@@ -114,7 +114,7 @@ My goal is to combine my software development experience with security knowledge
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdelrahman-Mhmed&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Abdelrahman-Mhmed&theme=github_dark&hide_border=false" />
 </p>
 
 ---
