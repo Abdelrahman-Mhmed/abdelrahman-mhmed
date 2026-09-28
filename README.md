@@ -121,12 +121,6 @@ Building responsive and interactive web applications with a focus on:
 
 ---
 
-## 👀 Profile Views
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Mhmed\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
----
-
 ## 💰 You can help me by Donating
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/paypal.me/Abdelrahman745)
@@ -145,15 +139,6 @@ Building responsive and interactive web applications with a focus on:
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/AbdelhamedMohamed0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ### 💡 Learn. Build. Improve. Repeat. 🚀
 
