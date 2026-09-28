@@ -109,7 +109,7 @@ My goal is to combine my software development experience with security knowledge
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Abdelrahman-Mhmed&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Abdelrahman-Mhmed&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdelrahman-Mhmed&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180"/>
 </p>
 
